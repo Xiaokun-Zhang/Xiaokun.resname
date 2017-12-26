@@ -1,0 +1,2 @@
+# Xiaokun.resname
+xiaokunresname
