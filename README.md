@@ -1,2 +1,0 @@
-# Xiaokun.resname
-xiaokunresnameHELLOWORLD
